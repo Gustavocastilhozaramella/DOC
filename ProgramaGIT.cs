@@ -23,6 +23,7 @@ namespace Aruquivo_GITHUB
             }
             else {
                 Console.WriteLine("O que é isso?");
+                Console.WriteLine("Palhaçada");
             }
                 Console.ReadKey();
             
