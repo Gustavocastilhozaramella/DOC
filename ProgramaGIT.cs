@@ -19,7 +19,7 @@ namespace Aruquivo_GITHUB
             if (idade > 20 && idade < 40)
             {
                 Console.WriteLine("Gustavo é Jovem");
-
+                Console.WriteLine("YAHOO");
             }
             else {
                 Console.WriteLine("O que é isso?");
